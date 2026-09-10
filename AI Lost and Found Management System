@@ -1,0 +1,36 @@
+AI LOST AND FOUND MANAGEMENT SYSTEM
+Version 1.0
+
+Specifications:-
+
+1. User Authentication and Profile Management
+   - User registration and secure login.
+   - User profile management with contact information.
+   - Role-based access for users and administrators.
+
+2. Lost and Found Item Reporting
+   - Users can report lost or found items.
+   - Upload item images and provide details such as name, category, location, date and description.
+   - Users can update or delete their submitted reports.
+
+3. AI-Based Image Matching
+   - AI analyzes uploaded images of lost and found items.
+   - Computer vision is used to identify visual similarities between items.
+   - The system generates potential matches with confidence scores.
+
+4. Smart Search and Matching
+   - Search items using category, keywords, location and date.
+   - AI combines image and text information to improve matching accuracy.
+   - Display the most relevant potential matches first.
+
+5. Notifications and Claim Management
+   - Notify users when a potential match is detected.
+   - Users can submit a claim for a matching item.
+   - Claim status can be tracked through the system.
+   - Administrators can verify and approve/reject claims.
+
+6. Admin Dashboard and System Management
+   - Admin can manage users, lost items and found items.
+   - Admin can review reported items and verify claims.
+   - Dashboard provides statistics and system activity.
+   - Admin can monitor and manage the overall lost and found process.
