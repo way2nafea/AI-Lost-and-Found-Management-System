@@ -34,3 +34,10 @@ Specifications:-
    - Admin can review reported items and verify claims.
    - Dashboard provides statistics and system activity.
    - Admin can monitor and manage the overall lost and found process.
+
+7. AI-Based Duplicate and Fraud Detection
+   - Detect duplicate lost and found item reports using AI.
+   - Identify suspicious or inconsistent item claims.
+   - Compare submitted images, descriptions, dates and locations.
+   - Flag potentially fraudulent or duplicate claims for administrator review.
+   - Help prevent multiple users from claiming the same item.
