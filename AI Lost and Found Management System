@@ -35,6 +35,14 @@ Specifications:-
    - Dashboard provides statistics and system activity.
    - Admin can monitor and manage the overall lost and found process.
 
+8. Location-Based Tracking and Notifications
+   - Allow users to provide the location where an item was lost or found.
+   - Use location information to identify potential nearby matches.
+   - Display relevant lost and found items based on location.
+   - Notify users when a potential match is found.
+   - Notify users when the status of their report or claim changes.
+   - Help users track the progress of their lost or found item.
+
 7. AI-Based Duplicate and Fraud Detection
    - Detect duplicate lost and found item reports using AI.
    - Identify suspicious or inconsistent item claims.
