@@ -41,3 +41,10 @@ Specifications:-
    - Compare submitted images, descriptions, dates and locations.
    - Flag potentially fraudulent or duplicate claims for administrator review.
    - Help prevent multiple users from claiming the same item.
+
+8. Location-Based Lost and Found Tracking
+   - Allow users to specify the location where an item was lost or found.
+   - Display lost and found items based on location.
+   - Use location information to improve AI-based matching.
+   - Help users find potential matches within nearby areas.
+   - Allow administrators to manage and verify location details.
